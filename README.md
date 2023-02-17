@@ -1,6 +1,7 @@
-# Frontend Wedding Website
+# (Frontend) Employee Manager App
 
-## Project Description 
+## Project Description
+Frontend of Full Stack employee manager app with Angular (JavaScript) and Spring Boot (Java)
 
 ## Table of Contents
 
