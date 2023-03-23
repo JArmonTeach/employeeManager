@@ -8,7 +8,7 @@ Angular 14.2.9 was used so as to learn its basic syntax and semantics.
 A challenge came about with formatting the employees full names so that they would not be put on separate lines. The solution of changing the styling from the bootstrap default styling will helpful in the future when trying to make responsive designs.
 
 ## Installation
-    This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
+    This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5. Once you have cloned the project files then follow the next steps.
 
    ### Development server
 
@@ -35,9 +35,14 @@ A challenge came about with formatting the employees full names so that they wou
     To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## Usage
+    1. Once both the frontend code and backend code for the application are ran, the user can add a new employee by clicking "Add Employee" button.
+    2. The user can fill in the employee information and save the new employee who will appear on the dashboard automatically.
+    3. To edit an employee, click the blue button with a pencil icon on the employee card that you would like to edit.
+    4. Click save to save the edits made.
+    5. To search an employee, start typing any known information into the search bar and the employee that matches that search will appear.
+    6. To delete an employee card, click the X grey button on the respective employee card and click Yes on the following prompt to acutally delete.
+    
 
 ## Credits
 
 ## License 
-
-
