@@ -42,7 +42,7 @@ A challenge came about with formatting the employees full names so that they wou
     5. To search an employee, start typing any known information into the search bar and the employee that matches that search will appear.
     6. To delete an employee card, click the X grey button on the respective employee card and click Yes on the following prompt to acutally delete.
     
-
 ## Credits
-
+    Tutorial that had base employee manager project: https://www.youtube.com/watch?v=Gx4iBLKLVHk&t=1s
+    
 ## License 
